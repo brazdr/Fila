@@ -1,3 +1,5 @@
+//Fila Sequencial Estatica
+
 #include <stdio.h>
 #include "lista.h"
 
